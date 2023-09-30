@@ -1,3 +1,5 @@
+# :wave: Name: Diego Barrales
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
